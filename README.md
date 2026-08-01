@@ -21,33 +21,8 @@ A high-converting, mobile-first landing page built for local urgent care clinics
 - **Frontend Framework:** React 18 + Vite + TypeScript
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide React
-- **Form Engine:** Formspree API (Routed to `adetito4life@gmail.com`)
+- **Form Engine:** Formspree API 
 - **Map Integration:** Google Maps Embed API
-
----
-
-## 💻 Local Development Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/apex-urgentcare.git
-   cd apex-urgentcare
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production:**
-   ```bash
-   npm run build
-   ```
 
 ---
 
