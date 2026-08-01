@@ -1,0 +1,6 @@
+{
+  "name": "Apex Urgent Care & Wellness",
+  "description": "Fast, compassionate walk-in urgent care and wellness clinic in Dallas, TX with live wait times and online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
